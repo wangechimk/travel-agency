@@ -1,11 +1,11 @@
-#  Pet website
+#  Travel agency website
 #### This is a pet website 2021,15 February
 #### By **Wangechi Kimani**
 ## Description
-This website helps users to learn more about different dog breeds and how to care for them.
+This website helps users to learn more about different travel destinations.
 ## Setup/Installation Requirements
 *  clone this repository
-* open "pet-website.html" in your browser
+* open "index.html" in your browser
 ## Known Bugs
 None
 ## Technologies Used
