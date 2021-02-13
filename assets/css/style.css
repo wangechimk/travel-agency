@@ -1,0 +1,15 @@
+*{
+     font-family: fantasy;
+}
+
+.tropical {
+    color: #7dc410;
+}
+
+.tropical > h3 {
+    color: #f7325e;
+}
+
+.popular {
+    font-style: italic;
+}
